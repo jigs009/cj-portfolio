@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "CJ (Jignesh Nishad) — Video Editor & Motion Designer",
+    "description": "Freelance video editor and motion designer with 100+ projects completed. Editing long-form YouTube videos, documentaries, and motion graphics using Premiere Pro and After Effects.",
+    "ogImage": "/assets/og-image.jpg",
+    "twitterHandle": "[TWITTER_HANDLE]"
+  },
+  "hero": {
+    "headline": "Video editor & motion designer.",
+    "subline": "Hey, I'm CJ (Jignesh). I edit long-form YouTube videos, documentaries, and create motion graphics using Premiere Pro and After Effects.",
+    "reelLoopMp4": "[REEL_LOOP]",
+    "reelLoopWebm": "[REEL_LOOP]",
+    "reelPoster": "/assets/reel-poster.jpg",
+    "ctaQuote": "Get in touch"
+  },
+  "proof": [
+    { "value": "100+", "label": "Projects Edited" },
+    { "value": "3+ Yrs", "label": "Experience" },
+    { "value": "Premiere", "label": "Story & Audio" },
+    { "value": "After Effects", "label": "Motion Graphics" }
+  ],
+  "services": [
+    {
+      "title": "Long-Form & Documentary Editing",
+      "audience": "For YouTube creators, independent documentaries, and storytelling channels",
+      "includes": [
+        "Complete story assembly and timeline pacing",
+        "A-roll dialogue cleanup and multi-camera syncing",
+        "B-roll cutaways and archival footage integration",
+        "Background music selection and balanced audio mix",
+        "Color correction and cinematic grade"
+      ],
+      "priceFrom": ""
+    },
+    {
+      "title": "Motion Graphics & Title Design",
+      "audience": "For channels, founders, and videos that need visual clarity and kinetic energy",
+      "includes": [
+        "Custom kinetic typography and animated subtitles",
+        "Intro sequences, lower thirds, and chapter title cards",
+        "Animated maps, charts, and technical callouts",
+        "Clean transitions and visual polish",
+        "Delivered in 16:9 widescreen or 9:16 vertical"
+      ],
+      "priceFrom": ""
+    },
+    {
+      "title": "UI Animation & Resource Embedding",
+      "audience": "For product demos, software explainers, and videos featuring digital interfaces",
+      "includes": [
+        "Extracting provided UI components and design resources from Figma",
+        "Prepping logos, icons, and vector files from Adobe Illustrator",
+        "Embedding assets cleanly into After Effects and Premiere Pro timelines",
+        "Animating smooth screen interactions, cursor paths, and transitions"
+      ],
+      "priceFrom": ""
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "label": "Footage & Direction",
+      "description": "Upload your raw footage, audio recordings, and any reference videos to Google Drive or Dropbox. We talk through your goals, style, and timeline.",
+      "timing": "Day 1",
+      "revisions": null
+    },
+    {
+      "step": "02",
+      "label": "The Story Cut",
+      "description": "I organize the footage, assemble the core storyline, and tighten the pacing in Premiere Pro. You get a private link to review the structure and narrative flow.",
+      "timing": "Days 2–3",
+      "revisions": "Story check"
+    },
+    {
+      "step": "03",
+      "label": "Motion, Sound & Color",
+      "description": "Once the story is locked, I build custom motion graphics and titles in After Effects, clean up the dialogue, mix sound effects, and color grade the cut.",
+      "timing": "Days 4–5",
+      "revisions": "Full review"
+    },
+    {
+      "step": "04",
+      "label": "Review & Delivery",
+      "description": "We review the cut together, make any requested adjustments, and I export full-resolution masters ready to publish, along with any project files.",
+      "timing": "Days 6–7",
+      "revisions": "Final master"
+    }
+  ],
+  "testimonials": [],
+  "about": {
+    "software": [
+      "Adobe Premiere Pro",
+      "Adobe After Effects",
+      "Figma",
+      "Adobe Illustrator"
+    ]
+  },
+  "faq": [],
+  "contact": {
+    "email": "workwithcj07@gmail.com",
+    "whatsapp": "",
+    "discord": "[DISCORD_USERNAME]",
+    "youtube": "[YOUTUBE_URL]",
+    "instagram": "[INSTAGRAM_URL]",
+    "formEndpoint": ""
+  },
+  "analytics": {
+    "provider": "",
+    "id": ""
+  }
+}
