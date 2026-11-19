@@ -70,7 +70,7 @@ export default function SelectedWork({ projects }: { projects: Project[] }) {
           </div>
         </SectionReveal>
 
-        {/* Unified Work Grid Containing All 7 Videos */}
+        {/* Unified Work Grid Containing All 8 Videos */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 items-start">
           {projects.map((p, i) => (
             <SectionReveal key={p.slug} delay={i * 0.03}>
